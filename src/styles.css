@@ -1,1 +1,32 @@
 /* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+
+*{
+   box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+    font-family: Quicksand, Helvetica, sans-serif;
+    font-size: 100px;
+}
+a{
+    text-decoration: none;
+}
+html{
+    font-size: 16px;
+}
+
+ div{
+    font-size: 15px;
+    color: black;
+}
+p{
+    font-size: 40px;
+    color: black;
+}
+
+span{
+    font-size: 1rem;
+    color: red;
+}
